@@ -1,0 +1,27 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Call Tracking for Contractors 2026 review cover, by Ben O'Hara at Pamcoal">
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1200" height="80" fill="#1E40AF"/>
+  <rect x="0" y="80" width="1200" height="6" fill="#F59E0B"/>
+
+  <text x="60" y="52" font-family="Roboto Condensed, Arial Narrow, sans-serif" font-weight="700" font-size="22" fill="#FFFFFF" letter-spacing="6">PAMCOAL · CALL TRACKING FOR CONTRACTORS · 2026</text>
+
+  <text x="60" y="220" font-family="Roboto Condensed, Arial Narrow, sans-serif" font-weight="700" font-size="92" fill="#0A1F44" letter-spacing="-2">Call Tracking</text>
+  <text x="60" y="310" font-family="Roboto Condensed, Arial Narrow, sans-serif" font-weight="700" font-size="92" fill="#0A1F44" letter-spacing="-2">for Contractors</text>
+
+  <rect x="60" y="340" width="180" height="6" fill="#F59E0B"/>
+
+  <text x="60" y="400" font-family="Inter, sans-serif" font-weight="500" font-size="26" fill="#2A2A2A">HVAC. Plumbing. Roofing. Electrical.</text>
+  <text x="60" y="438" font-family="Inter, sans-serif" font-weight="400" font-size="22" fill="#5C6470">Real cost-per-booked-job math. Four platforms reviewed.</text>
+
+  <g transform="translate(60 510)">
+    <rect width="320" height="68" fill="#0A1F44"/>
+    <text x="20" y="30" font-family="Roboto Condensed, sans-serif" font-weight="700" font-size="14" fill="#F59E0B" letter-spacing="3">2026 TOP PICK</text>
+    <text x="20" y="58" font-family="Roboto Condensed, sans-serif" font-weight="700" font-size="28" fill="#FFFFFF">CallScaler</text>
+  </g>
+
+  <g transform="translate(820 480)">
+    <rect width="320" height="100" fill="none" stroke="#1E40AF" stroke-width="3"/>
+    <text x="20" y="38" font-family="Roboto Condensed, sans-serif" font-weight="700" font-size="14" fill="#5C6470" letter-spacing="3">PER LOCAL NUMBER</text>
+    <text x="20" y="78" font-family="Roboto Condensed, sans-serif" font-weight="700" font-size="40" fill="#1E40AF">$0.50/mo</text>
+  </g>
+</svg>
